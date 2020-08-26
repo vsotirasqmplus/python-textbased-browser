@@ -1,0 +1,14 @@
+type: code
+custom_name: Spellchecker
+files:
+- name: task.py
+  visible: true
+  text: dictionary = ["aa", "abab", "aac", "ba", "bac", "baba", "cac", "caac"]
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6525
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6525">JetBrains
+    Academy</a></html>
+  time: Tue, 04 Aug 2020 18:55:55 UTC
+record: -1
